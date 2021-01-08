@@ -1,6 +1,6 @@
 {
-    "title": "Scrolling Nav",
-    "name": "startbootstrap-scrolling-nav",
+    "title": "Generator Fonts",
+    "name": "generatorfonts",
     "version": "4.2.3",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
